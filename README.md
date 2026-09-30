@@ -45,7 +45,7 @@ Most of my work is for clients and private codebases, so it isn't on this page. 
 | **Rentpe (rental marketplace)**   | Designed the whole backend and database schema for a vendor/consumer rental platform: microservices, Kubernetes deployments, one-click Jenkins CI/CD               | Spring Boot, Postgres, Firebase, Kubernetes, Jenkins, AWS                              |
 | **Quantegy (analytics platform)** | Data ingestion, KPI reporting APIs, and forecasting / financial-modeling logic                                                                                     | Django, Postgres, Heroku                                                               |
 
-## Open source and side projects
+<!-- ## Open source and side projects -->
 
 <!-- Replace with your real repos once they're cleaned up. Examples: -->
 <!-- 
