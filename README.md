@@ -48,9 +48,9 @@ Most of my work is for clients and private codebases, so it isn't on this page. 
 ## Open source and side projects
 
 <!-- Replace with your real repos once they're cleaned up. Examples: -->
-
+<!-- 
 - 🔧 [`repo-name`](https://github.com/DholaSanai/repo-name): one line on what it does and why it's interesting
-- 🔧 [`repo-name`](https://github.com/DholaSanai/repo-name): one line on what it does and why it's interesting
+- 🔧 [`repo-name`](https://github.com/DholaSanai/repo-name): one line on what it does and why it's interesting -->
 
 ## Work with me
 
